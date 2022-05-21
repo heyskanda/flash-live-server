@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flash-live-server/static/css/main.026440fc.css",
+    "main.js": "/flash-live-server/static/js/main.a994f113.js",
+    "static/js/787.b701888c.chunk.js": "/flash-live-server/static/js/787.b701888c.chunk.js",
+    "index.html": "/flash-live-server/index.html",
+    "main.026440fc.css.map": "/flash-live-server/static/css/main.026440fc.css.map",
+    "main.a994f113.js.map": "/flash-live-server/static/js/main.a994f113.js.map",
+    "787.b701888c.chunk.js.map": "/flash-live-server/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.026440fc.css",
+    "static/js/main.a994f113.js"
+  ]
+}
