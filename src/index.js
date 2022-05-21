@@ -3,11 +3,21 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Hero from './Hero';
+import Feature from './Feature';
+import Footer from './Footer';
+import CTA from './CTA';
+import FAQ from './FAQ';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    <Hero />
+    <Feature />
+    <CTA />
+    <FAQ />
+    <Footer />
   </React.StrictMode>
 );
 
